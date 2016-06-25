@@ -9,11 +9,11 @@
  	var buttons = document.querySelectorAll( ".button" );
 	
  	for( var i = 0; i < $tabs.length; i++ ) {
- 		$tabs[i].addEventListener( "click", function(e) { changeColor( e, links, buttons ) } );
+ 		// $tabs[i].addEventListener( "click", function(e) { changeColor( e, links, buttons ) } );
         $tabs[i].addEventListener( "click", function(e) { changePage( e ) } );
  	}
  	
- 	makeBlue( links, buttons );
+ 	// makeBlue( links, buttons );
 
  }
 
