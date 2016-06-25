@@ -10,10 +10,16 @@
 	
  	for( var i = 0; i < $tabs.length; i++ ) {
  		$tabs[i].addEventListener( "click", function(e) { changeColor( e, links, buttons ) } );
+        $tabs[i].addEventListener( "click", function(e) { changePage( e ) } );
  	}
  	
  	makeBlue( links, buttons );
 
+ }
+
+ function changePage( e ) {
+     document.getElementById( "current-page" ).value = e.target.parentElement.id;
+     document.forms[ 'this-page' ].submit();
  }
 
  function changeColor( e, links, buttons ) {
