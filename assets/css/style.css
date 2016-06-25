@@ -23,7 +23,13 @@ h6 {
     font-family: Oswald, sans-serif;
     color: #43484c;
 }
+h1 a {
+    color: black;
+}
 a,
+h1 a:hover,
+h1 a:focus,
+h1 a:active,
 .tabs-title > a {
     color: #0bb4db;
 }
@@ -41,6 +47,9 @@ a,
 }
 .last-people h6 {
     margin-left: -0.9375rem;
+}
+.fa-stack-1x {
+    line-height: 1.8!important;
 }
 h1 {
 	padding-bottom: 1.5rem;

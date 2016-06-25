@@ -1,7 +1,7 @@
     <div class="callout large intro">
     <div class="row column text-center">
-        <h1>GPA Yearbook</h1>
-        <p class="lead">Making Memories</p>
+        <h1><a href="index.php">GPA Yearbook</a></h1>
+        <p class="lead">Making Memories you can Save Forever</p>
         <!--<a href="#" class="button large">Book I: The Sentence</a>
         <a href="#" class="button large hollow">Book 2: The Paragraph</a>-->
     </div>
