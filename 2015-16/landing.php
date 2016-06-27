@@ -18,7 +18,7 @@
             <p>Yearbook logo: inspired by <a href="https://playoverwatch.com/en-us/">Overwatch</a></p>
             <p>Original cover design: <span class="name">Bojeong Kang</span></p>
             <div class="cta-buttons large-8 medium-6 small-12 small-centered large-uncentered columns">
-              <a class="button expanded large" href="assets/files/THE-yearbook-2015-16.pdf">Download (13MB)</a>
+              <a class="button expanded large" href="assets/files/THE-yearbook-2015-16-update.pdf">Download (13MB)</a>
             </div>
               <a href="#download">Alternate versions</a>
           </div>

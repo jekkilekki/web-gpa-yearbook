@@ -8,8 +8,9 @@
     </div> 
 
     <ul class="tabs" data-tabs id="books">
-        <li id="2015-tab" class="tabs-title <?php if( $page == '2015-tab' ) echo 'is-active'; ?>"><a id="2015-link" href="2015.php" aria-selected="true">2015-2016</a></li>
-        <li id="2013-tab" class="tabs-title <?php if( $page == '2013-tab' ) echo 'is-active'; ?>"><a id="2013-link" href="2013.php">2013-2014</a></li>
+        <li id="2015-tab" class="tabs-title <?php if( $page == '2015-tab' ) echo 'is-active'; ?>"><a id="2015-link" href="#" aria-selected="true">2015-2016</a></li>
+        <li id="2013-tab" class="tabs-title <?php if( $page == '2013-tab' ) echo 'is-active'; ?>"><a id="2013-link" href="#">2013-2014</a></li>
+        <li id="newsletter-tab" class="tabs-title <?php if( $page == 'newsletter-tab' ) echo 'is-active'; ?>"><a id="newsletter-link" href="#">Newsletters</a></li>
     </ul>
       
     <div class="tabs-content" data-tabs-content="books">

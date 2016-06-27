@@ -75,6 +75,12 @@ form textarea {
 	margin-top: -1rem;
 	text-align: right;
 }
+.copy span {
+    font-size: 80%;
+    border-left: 1px solid #56595d;
+    margin-left: 15px;
+    padding-left: 15px;
+}
 .cta-buttons {
 	text-align: center;
 }
@@ -88,7 +94,7 @@ form textarea {
 	margin-bottom: 0;
 }
 .tabs {
-	width: 216px;
+	width: 338px;
 	margin: 0 auto;
 	border: none;
 }
