@@ -41,6 +41,9 @@ h1 a:active,
     letter-spacing: 3px;
     text-transform: uppercase;
 }
+.leadin {
+    margin-bottom: 3rem;
+}
 .name {
     color: #f8a01b;
     font-weight: 700;
@@ -84,6 +87,16 @@ form textarea {
 .cta-buttons {
 	text-align: center;
 }
+.reveal {
+    position: relative;
+}
+.reveal .large.button {
+    position: fixed;
+    bottom: 100px;
+    right: 50%;
+    width: 130px;
+    margin-right: -65px;
+}
 #book1 .fa {
 	color: #8ad4f7;
 }
@@ -94,7 +107,7 @@ form textarea {
 	margin-bottom: 0;
 }
 .tabs {
-	width: 494px;
+	width: 256px;
 	margin: 0 auto;
 	border: none;
 }
