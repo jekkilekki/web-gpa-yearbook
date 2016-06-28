@@ -9,7 +9,8 @@
 
     <ul class="tabs" data-tabs id="books">
         <li id="websites-tab" class="tabs-title is-active"><a href="#students" aria-selected="true">Student Websites</a></li>
-        <li id="yearbook-tab" class="tabs-title"><a href="#samples">Samples</a></li>
+        <li id="samples-tab" class="tabs-title"><a href="#samples">Samples</a></li>
+        <li id="yearbook-tab" class="tabs-title"><a href="http://gpa.justkeeplearning.xyz/yearbook">Back to Yearbook &rarr;</a></li>
     </ul>
       
     <div class="tabs-content" data-tabs-content="books">
