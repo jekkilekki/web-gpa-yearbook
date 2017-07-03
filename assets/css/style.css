@@ -90,11 +90,11 @@ form textarea {
 #book2 .fa {
 	color: #95d8b6;
 }
-.intro { 
+.intro {
 	margin-bottom: 0;
 }
 .tabs {
-	width: 494px;
+	width: 590px;
 	margin: 0 auto;
 	border: none;
 }
@@ -120,7 +120,7 @@ form textarea {
 	}
 }
 @media screen and (min-width: 40em) { /* Medium and up */
-	.row { 
+	.row {
 		padding-left: 1rem;
 		padding-right: 1rem;
 	}

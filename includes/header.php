@@ -1,10 +1,10 @@
-<?php 
-include( 'includes/functions.php' ); 
+<?php
+include( 'includes/functions.php' );
 
 if( isset ( $_POST[ 'current-page' ] ) ) {
     $page = $_POST[ 'current-page' ];
 } else {
-    $page = '2015-tab';
+    $page = '2016-tab';
 }
 ?>
 
@@ -35,6 +35,6 @@ if( isset ( $_POST[ 'current-page' ] ) ) {
       <form id="this-page" name="page" action="" method="POST">
         <input id="current-page" name="current-page" type="hidden" value="<?php echo $page; ?>">
       </form>
-      
+
       <?php include( 'top-menu.php' ); ?>
       <?php include( 'banner-tabs.php' ); ?>

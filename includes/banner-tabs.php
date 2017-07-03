@@ -5,15 +5,16 @@
         <!--<a href="#" class="button large">Book I: The Sentence</a>
         <a href="#" class="button large hollow">Book 2: The Paragraph</a>-->
     </div>
-    </div> 
+    </div>
 
     <ul class="tabs" data-tabs id="books">
-        <li id="2015-tab" class="tabs-title <?php if( $page == '2015-tab' ) echo 'is-active'; ?>"><a id="2015-link" href="#" aria-selected="true">2015-2016</a></li>
+        <li id="2016-tab" class="tabs-title <?php if( $page == '2016-tab' ) echo 'is-active'; ?>"><a id="2016-link" href="#" aria-selected="true">2016-2017</a></li>
+        <li id="2015-tab" class="tabs-title <?php if( $page == '2015-tab' ) echo 'is-active'; ?>"><a id="2015-link" href="#">2015-2016</a></li>
         <li id="2013-tab" class="tabs-title <?php if( $page == '2013-tab' ) echo 'is-active'; ?>"><a id="2013-link" href="#">2013-2014</a></li>
         <li id="newsletter-tab" class="tabs-title <?php if( $page == 'newsletter-tab' ) echo 'is-active'; ?>"><a id="newsletter-link" href="#">Newsletters</a></li>
         <li id="websites-tab" class="tabs-title"><a id="websites-link" href="http://gpa.justkeeplearning.xyz/student-web">Student Websites</a></li>
     </ul>
-      
+
     <div class="tabs-content" data-tabs-content="books">
       <div class="row">
           <a name="about"></a>
