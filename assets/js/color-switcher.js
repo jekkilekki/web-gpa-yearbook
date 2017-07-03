@@ -29,9 +29,9 @@
  	if ( e.target.id == "book1-label" || e.target.parentElement.id == "book1-label" ) {
  		makeBlue( links, buttons );
  	} else if ( e.target.id == "book2-label" || e.target.parentElement.id == "book2-label" ) {
- 		makeGreen( links, buttons );
+ 		makeBlue( links, buttons );
   	} else if ( e.target.id == "book3-label" || e.target.parentElement.id == "book3-label" ) {
- 		makePurple( links, buttons );
+ 		makeBlue( links, buttons );
  	}
  }
  
