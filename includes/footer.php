@@ -1,6 +1,6 @@
     <footer class="callout large secondary copy">
       <div class="row">
-        <strong>Copyright &copy; 2017</strong><span>Design + Code by: <a href="http://aaronsnowberger.com">Aaron Snowberger</a></span>
+        <strong>Copyright &copy; 2016 - <?php echo date( 'Y' ); ?></strong><span>Design + Code by: <a href="http://aaronsnowberger.com">Aaron Snowberger</a></span>
       </div>
     </footer>
 

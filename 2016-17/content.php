@@ -1,5 +1,5 @@
 <!-- 2016-2017 : INFO -->
-      <div class="tabs-panel is-active" id="book1">
+      <div class="tabs-panel is-active">
 
         <?php include( 'landing.php' ); ?>
         <?php include( 'sections.php' ); ?>

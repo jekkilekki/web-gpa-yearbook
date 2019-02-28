@@ -53,8 +53,11 @@
             <br>
             <h6>Teacher</h6>
             <div class="media-object-section large-2 columns">
-                <span><a href="http://aaronsnowberger.com"><img src="assets/img/people/mr-snowberger.png"></a></span>
-              </div>
+              <figure class="teacher">
+                <span><a href="http://aaronsnowberger.com"><img src="assets/img/people/aaron2019.png"></a></span>
+                <figcaption>Mr. Snowberger</figcaption>
+              </figure>
+            </div>
             <div class="large-8 columns">
                 <p><br><br>Visit <a href="http://aaronsnowberger.com">Mr. Snowberger's website</a>.</p>
             </div>

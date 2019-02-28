@@ -1,5 +1,5 @@
 <!-- 2013-2014 : INFO -->
-      <div class="tabs-panel is-active" id="book3">
+      <div class="tabs-panel is-active">
 
         <div class="row">
           <div class="large-3 medium-4 small-12 columns end">

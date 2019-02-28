@@ -155,3 +155,24 @@ form textarea {
 		text-align: center;
 	}
 }
+
+
+/* New Styles - 2019 */
+.teacher {
+	margin: 0;
+	position: relative;
+}
+.orange-border {
+	border: 6px solid #F89F1C;
+}
+.teacher figcaption {
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	min-width: 125px;
+	font-family: Oswald, sans-serif;
+	color: white;
+	background: #CD1C1E;
+	padding: 0 8px;
+	text-transform: uppercase;
+}
